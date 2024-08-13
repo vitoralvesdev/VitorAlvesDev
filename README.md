@@ -1,7 +1,5 @@
 ## 👋
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/vitoralvesdev/))
-
 ### Skills
 
 [![Html](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)]([])
