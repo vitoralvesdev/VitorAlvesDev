@@ -18,6 +18,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-009EE3?style=flat&logo=mercadopago&logoColor=white)](https://www.mercadopago.com.br/)
 
 <!--
 **vitoralvesdev/VitorAlvesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
